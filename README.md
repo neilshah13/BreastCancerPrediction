@@ -1,5 +1,7 @@
 # Breast Cancer Prediction
 
+## LifeHack 2020 Winner
+
 Our project is crafted to aid the current healthcare system to combat against the  biggest challenges regarding Breast Cancer in Singapore - Awareness and Prediction
 
 With our Tableau Dashboard, we aim to raise greater awareness for the general population about the risk and dangers of breast cancer, while giving hope through statistics that our ever improving medical facilities can treat breast cancer well.
