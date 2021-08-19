@@ -36,7 +36,7 @@ We use a pretrained model on the Imagenet Dataset (14 million images) as our dat
 
 ![image](https://user-images.githubusercontent.com/50938891/130114244-b446bae1-b3be-403a-afd1-420b441b3d68.png)
 
-![image](https://user-images.githubusercontent.com/50938891/130114309-e53e6798-75af-40ec-8b9b-61b5e6e41db6.png)
+<image src="https://user-images.githubusercontent.com/50938891/130114309-e53e6798-75af-40ec-8b9b-61b5e6e41db6.png" height=400px/>
 The image on the left shows the original input with the ICD areas highlighted in purple and on the right shows the probability map that the model has learnt. The higher the probability of ICD at that spot/pixel the darker the colour.
 
 
